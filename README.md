@@ -1,7 +1,7 @@
 # Interactive Quiz App – Inspired by Mentimeter
 
 Welcome to our Flutter and Firebase-based Interactive Quiz App, built as a real-time, multi-user quiz platform.  
-Developed by Aya Ben Hmida and Rihab Ben Amor Souissi, this project was inspired by Mentimeter and offers a seamless experience across web and mobile, thanks to Flutter and Firebase.
+this project was inspired by Mentimeter and offers a seamless experience across web and mobile, thanks to Flutter and Firebase.
 
 ## Features
 
@@ -37,3 +37,8 @@ flutter pub get
 
 # Run the app
 flutter run
+
+## Demo
+
+Watch the demo here: https://drive.google.com/file/d/1UN2Guz79XAekZCpVoNs55DcjMfFXZLwz/view?usp=sharing
+
