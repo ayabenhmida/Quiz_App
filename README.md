@@ -39,6 +39,5 @@ flutter pub get
 flutter run
 
 ## Demo
-
 Watch the demo here: https://drive.google.com/file/d/1UN2Guz79XAekZCpVoNs55DcjMfFXZLwz/view?usp=sharing
 
