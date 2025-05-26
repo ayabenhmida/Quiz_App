@@ -1,16 +1,39 @@
-# quiz
+# Interactive Quiz App – Inspired by Mentimeter
 
-A new Flutter project.
+Welcome to our Flutter and Firebase-based Interactive Quiz App, built as a real-time, multi-user quiz platform.  
+Developed by Aya Ben Hmida and Rihab Ben Amor Souissi, this project was inspired by Mentimeter and offers a seamless experience across web and mobile, thanks to Flutter and Firebase.
+
+## Features
+
+- Firebase Authentication for secure user access  
+- Authenticated users can create custom quizzes  
+- Each quiz includes multiple questions with custom answers  
+- Ability to edit, reorder questions, and set timers  
+- Participants can join a quiz via a unique session code  
+- Users select an avatar and username before joining  
+- A final leaderboard displays participant results  
+- Built as a Progressive Web App (PWA) for a native-like experience on web and mobile
+
+## Tech Stack
+
+- Flutter for cross-platform development  
+- Firebase Authentication for login and account management  
+- Cloud Firestore for real-time data storage and sync  
+- Progressive Web App (PWA) configuration
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the project locally:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+# Clone the repository
+git clone https://github.com/ayabenhmida/Quiz_App.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Navigate to the project folder
+cd Quiz_App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Get dependencies
+flutter pub get
+
+# Run the app
+flutter run
